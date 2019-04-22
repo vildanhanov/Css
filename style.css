@@ -1,0 +1,43 @@
+@font-face {
+	font-family:"RoadNumbers";
+	src: url('fonts/RoadNumbers.otf');
+}
+
+
+
+.main {
+	word-spacing: -5px;
+	text-align:center;
+	padding: 20px;
+	border: 10px solid black;
+	width:1200px;
+	height:300px;
+	border-radius: 30px;
+
+	
+	font-family:"RoadNumbers";
+
+
+}
+
+
+#nomer {
+	font-size:300px;
+	font-family:"RoadNumbers";
+
+		 
+		 
+
+	  }
+#region {
+
+
+
+	font-size:200px;
+	font-family:"RoadNumbers";
+	vertical-align: 80px;
+	text-align: center;
+		 
+		 
+
+	  }

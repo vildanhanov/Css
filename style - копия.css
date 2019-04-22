@@ -1,0 +1,48 @@
+@font-face {
+	font-family:"RoadNumbers";
+	src: url('fonts/RoadNumbers.otf');
+}
+
+
+
+.main {
+	word-spacing: -5px;
+	text-align: center;
+	padding: 20px;
+	
+
+
+}
+
+
+#nomer {
+
+	border: 10px solid black;
+
+	border-top-left-radius:30px;
+	border-bottom-left-radius:30px;
+	border-top-right-radius:0px;
+	border-bottom-right-radius:0px;
+
+	font-size:300px;
+	font-family:"RoadNumbers";
+	
+		 
+		 
+
+	  }
+#region {
+
+	border: 10px solid black;
+	border-top-left-radius:0px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:0px;
+	border-bottom-right-radius:30px;
+
+	font-size:300px;
+	font-family:"RoadNumbers";
+	text-align: 10px;
+		 
+		 
+
+	  }
